@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(245, 220, 220)
+}
+form{
+  width: 450px;
+  margin: auto;
+  padding: auto;
+  background-color: rgb(206, 144, 144)
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+#div2{
+  background-color: rgb(250, 214, 214)
+}
+.box{
+  background-color: rgb(229, 182, 182);
+  border-radius: 2px;
+}
